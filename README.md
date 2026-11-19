@@ -24,7 +24,7 @@ The project our team selected is the **Smart Plant Watering System**. This syste
 
 ## Team Feedback and Improvements
 
-The original project idea has remained mostly unchanged. As a group, we discussed how the system would function and what components would be necessary. The main area we are still deciding on is the best method for transferring water from the container into the soil. We plan to explore different approaches to determine which would work best for our system. In the future, we would also like to implement a feature that allows the microcontroller to send text message notifications to the user when the water container is empty and needs to be refilled.
+The original project idea has remained mostly unchanged. As a group, we discussed how the system would function and what components would be necessary. The main area we are still deciding on is the best method for transferring water from the container into the soil. We plan to explore different approaches to determine which would work best for our system. So far, we believe a wired water pump is the best approach. In the future, we would also like to implement a couple features: a feature that allows the microcontroller to send text message notifications to the user when the water container is empty and needs to be refilled and a feature that allows multiple plants to be tracked at the same time.
 
 ## Concept Block Diagram and Firmware Behavior
 
