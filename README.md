@@ -29,7 +29,15 @@ The original project idea has remained mostly unchanged. As a group, we discusse
 ## Concept Block Diagram and Firmware Behavior
 
 ## Updated AI Concept Rendering
-![Image](Smart Plant Watering System.png)
+
+![Smart Plant Watering System Image](https://github.com/CalebNowowiejski/Final-Project-EET3350/blob/main/Smart%20Plant%20Watering%20System.png)
+
+**AI Tool:** ChatGPT
+
+**Prompt:** Generate a realistic 3D rendering of a Smart Plant Watering System with two side-by-side views. The left side should show a potted plant sitting on a stand with an enclosed compartment underneath and a power cable connected to a wall outlet. The right side should show the same stand with the front panel removed, revealing a water container with a water level sensor, a water pump, clear tubing that delivers water to the plant, and an ESP32 microcontroller with red and green LEDs. A soil moisture sensor should be inserted into the plant's soil, with visible wiring running through the stand and connecting directly to the ESP32. The power supply should connect to the microcontroller rather than the water pump. Include small, easy-to-read labels identifying the main components without overcrowding the image.
+
+**Changes:** Removed OLED monitor, edited the water sensor, added water tank sensor, added power outlet to showcase power supply, and added hidden stand for a cleaner look.
+
 ## User Story, Tests, and Risks
 
 **User Story:** As a homeowner with potted plants, I want an automated system that monitors soil moisture and waters my plants when necessary, so that I can keep my plants healthy without having to manually water them every day.
