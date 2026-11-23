@@ -29,7 +29,7 @@ The original project idea has remained mostly unchanged. As a group, we discusse
 ## Concept Block Diagram and Firmware Behavior
 
 ## Updated AI Concept Rendering
-
+![Image](Smart Plant Watering System.png)
 ## User Story, Tests, and Risks
 
 **User Story:** As a homeowner with potted plants, I want an automated system that monitors soil moisture and waters my plants when necessary, so that I can keep my plants healthy without having to manually water them every day.
