@@ -27,6 +27,9 @@ The project our team selected is the **Smart Plant Watering System**. This syste
 The original project idea has remained mostly unchanged. As a group, we discussed how the system would function and what components would be necessary. The main area we are still deciding on is the best method for transferring water from the container into the soil. We plan to explore different approaches to determine which would work best for our system. So far, we believe a wired water pump is the best approach. In the future, we would also like to implement a couple features: a feature that allows the microcontroller to send text message notifications to the user when the water container is empty and needs to be refilled and a feature that allows multiple plants to be tracked at the same time.
 
 ## Concept Block Diagram and Firmware Behavior
+![Block Diagram](https://github.com/CalebNowowiejski/Final-Project-EET3350/blob/main/Screenshot%202026-11-23%20143733.png)
+
+For the C programming, the microprocessor will communicate with the sensors to return the state of the water tanks and moisture levels to decide whether to activate the water pumps. For the water pump programming, if the moisture sensor reads a bad reading, the water pump will activate and using a while loop, the moisture sensor will continue to check the moisture level. For the water tank programming, after watering the plant, the microprocessor will check if the water tank needs to be refilled.
 
 ## Updated AI Concept Rendering
 
@@ -51,6 +54,5 @@ The original project idea has remained mostly unchanged. As a group, we discusse
 **Technical and Safety Risks:** The main safety risk with this system is the combination of water and electricity. It is important to ensure that water cannot come into contact with the microcontroller, power outlet, or other electronic components. To test this, we can inspect the system for potential leaks and ensure all electrical components are properly protected. Another risk is the system failing to correctly water the plants, potentially causing them to become overwatered or underwatered. To test this, we can simulate different failures, such as an empty water container or a malfunctioning moisture sensor, and observe whether the system properly detects and responds to these issues.
 
 ## Schedule and Progress Checklist
-- Updated AI Concept
-- Block Diagram
-- Progress Checklist for next assigment
+11/23/26 | We updated the AI image and gave a description. We also created the block diagram and began to plan our C programming.
+A week from today, during our next meeting, we will begin to write and test our C programming.
