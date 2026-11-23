@@ -43,3 +43,6 @@ The original project idea has remained mostly unchanged. As a group, we discusse
 **Technical and Safety Risks:** The main safety risk with this system is the combination of water and electricity. It is important to ensure that water cannot come into contact with the microcontroller, power outlet, or other electronic components. To test this, we can inspect the system for potential leaks and ensure all electrical components are properly protected. Another risk is the system failing to correctly water the plants, potentially causing them to become overwatered or underwatered. To test this, we can simulate different failures, such as an empty water container or a malfunctioning moisture sensor, and observe whether the system properly detects and responds to these issues.
 
 ## Schedule and Progress Checklist
+- Updated AI Concept
+- Block Diagram
+- Progress Checklist for next assigment
